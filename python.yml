@@ -1,0 +1,17 @@
+adafruit-circuitpython-mcp230xx-pip:
+  debian:
+    pip:
+      packages: [adafruit-circuitpython-mcp230xx]
+  ubuntu:
+    pip:
+      packages: [adafruit-circuitpython-mcp230xx]
+adafruit-circuitpython-pcf8575-pip:
+  debian:
+    pip:
+      packages: [adafruit-circuitpython-pcf8575]
+  fedora:
+    pip:
+      packages: [adafruit-circuitpython-pcf8575]
+  ubuntu:
+    pip:
+      packages: [adafruit-circuitpython-pcf8575]
