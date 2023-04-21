@@ -1,18 +1,18 @@
-adafruit-circuitpython-mcp230xx-pip:
+adafruit-mcp3008-pip:
   debian:
     pip:
-      packages: [adafruit-circuitpython-mcp230xx]
+      packages: [Adafruit-MCP3008]
   ubuntu:
     pip:
-      packages: [adafruit-circuitpython-mcp230xx]
-adafruit-circuitpython-pcf8575-pip:
+      packages: [Adafruit-MCP3008]
+adafruit-pca9685-pip:
   debian:
     pip:
-      packages: [adafruit-circuitpython-pcf8575]
+      packages: [adafruit-pca9685]
   fedora:
     pip:
-      packages: [adafruit-circuitpython-pcf8575]
+      packages: [adafruit-pca9685]
   ubuntu:
     pip:
-      packages: [adafruit-circuitpython-pcf8575]
+      packages: [adafruit-pca9685]
 
