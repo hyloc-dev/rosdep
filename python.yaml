@@ -1,4 +1,4 @@
-adafruit-pcf8575-pip:
+python3-adafruit-circuitpython-pcf8575-pip:
   debian:
     pip:
       packages: [adafruit-circuitpython-pcf8575]
