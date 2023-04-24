@@ -1,11 +1,11 @@
-adafruit-mcp230xx:
+adafruit-mcp230xx-pip:
   debian:
     pip:
       packages: [adafruit-circuitpython-mcp230xx]
   ubuntu:
     pip:
       packages: [adafruit-circuitpython-mcp230xx]
-adafruit-pcf8575:
+adafruit-pcf8575-pip:
   debian:
     pip:
       packages: [adafruit-circuitpython-pcf8575]
