@@ -2,10 +2,9 @@ python3-adafruit-circuitpython-pcf8575-pip:
   debian:
     pip:
       packages: [adafruit-circuitpython-pcf8575]
-  fedora:
-    pip:
-      packages: [adafruit-circuitpython-pcf8575]
-  ubuntu:
-    pip:
-      packages: [adafruit-circuitpython-pcf8575]
 
+python3-pyniryo-pip:
+  debian:
+    pip:
+      packages: [pyniryo]
+      
