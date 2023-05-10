@@ -8,3 +8,7 @@ python3-pyniryo-pip:
     pip:
       packages: [pyniryo]
       
+opencv-contrib-python-headless-pip:
+  debian:
+    pip:
+      packages: [opencv-contrib-python-headless-pip]
