@@ -2,13 +2,22 @@ python3-adafruit-circuitpython-pcf8575-pip:
   debian:
     pip:
       packages: [adafruit-circuitpython-pcf8575]
+  ubuntu:
+    pip:
+      packages: [adafruit-circuitpython-pcf8575]
 
 python3-pyniryo-pip:
   debian:
     pip:
       packages: [pyniryo]
+  ubuntu:
+    pip:
+      packages: [pyniryo]
       
 opencv-contrib-python-headless-pip:
   debian:
+    pip:
+      packages: [opencv-contrib-python-headless]
+  ubuntu:
     pip:
       packages: [opencv-contrib-python-headless]
