@@ -11,4 +11,4 @@ python3-pyniryo-pip:
 opencv-contrib-python-headless-pip:
   debian:
     pip:
-      packages: [opencv-contrib-python-headless-pip]
+      packages: [opencv-contrib-python-headless]
