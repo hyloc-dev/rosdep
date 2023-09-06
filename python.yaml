@@ -1,3 +1,11 @@
+python3-adafruit-circuitpython-ds3502-pip:
+  debian:
+    pip:
+      packages: [adafruit-circuitpython-ds3502]
+  ubuntu:
+    pip:
+      packages: [adafruit-circuitpython-ds3502]
+      
 python3-adafruit-circuitpython-pcf8575-pip:
   debian:
     pip:
