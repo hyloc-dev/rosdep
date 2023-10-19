@@ -14,6 +14,14 @@ python3-adafruit-circuitpython-pcf8575-pip:
     pip:
       packages: [adafruit-circuitpython-pcf8575]
 
+python3-adafruit-circuitpython-scd30-pip:
+  debian:
+    pip:
+      packages: [adafruit-circuitpython-scd30]
+  ubuntu:
+    pip:
+      packages: [adafruit-circuitpython-scd30]
+
 python3-pyniryo-pip:
   debian:
     pip:
