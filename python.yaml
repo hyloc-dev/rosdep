@@ -46,28 +46,5 @@ opencv-contrib-python-headless-pip:
     pip:
       packages: [opencv-contrib-python-headless]
 
-python3-paramiko-pip:
-  debian:
-    pip:
-      packages: [paramiko]
-  ubuntu:
-    pip:
-      packages: [paramiko]
-
-python3-ffmpeg-pip:
-  debian:
-    pip:
-      packages: [python-ffmpeg]
-  ubuntu:
-    pip:
-      packages: [python-ffmpeg]
-
-python3-pytz-pip:
-  debian:
-    pip:
-      packages: [pytz]
-  ubuntu:
-    pip:
-      packages: [pytz]
 
       
