@@ -57,10 +57,10 @@ python3-paramiko-pip:
 python3-ffmpeg-pip:
   debian:
     pip:
-      packages: [ffmpeg]
+      packages: [python-ffmpeg]
   ubuntu:
     pip:
-      packages: [ffmpeg]
+      packages: [python-ffmpeg]
 
 python3-pytz-pip:
   debian:
