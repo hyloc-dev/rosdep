@@ -54,5 +54,15 @@ python3-blobconverter-pip:
     pip:
       packages: [blobconverter]
 
+python3-pillow-pip:
+  debian:
+    pip:
+      packages: [pillow]
+  ubuntu:
+    pip:
+      packages: [pillow]
+
+
+
 
 
