@@ -38,7 +38,7 @@ python3-pyniryo-pip:
     pip:
       packages: [pyniryo]
       
-opencv-contrib-python-headless-pip:
+python3-opencv-contrib-headless-pip:
   debian:
     pip:
       packages: [opencv-contrib-python-headless]
@@ -46,5 +46,19 @@ opencv-contrib-python-headless-pip:
     pip:
       packages: [opencv-contrib-python-headless]
 
+python3-blobconverter-pip:
+  debian:
+    pip:
+      packages: [blobconverter]
+  ubuntu:
+    pip:
+      packages: [blobconverter]
 
-      
+python3-pillow-pip:
+  debian:
+    pip:
+      packages: [Pillow]
+  ubuntu:
+    pip:
+      packages: [Pillow]
+
