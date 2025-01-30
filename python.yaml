@@ -30,6 +30,12 @@ python3-adafruit-circuitpython-ahtx0-pip:
     pip:
       packages: [adafruit-circuitpython-ahtx0]
 
+python3-adafruit-circuitpython-scd4x-pip:
+  ubuntu:
+    pip:
+      packages:
+        - adafruit-circuitpython-scd4x
+        
 python3-pyniryo-pip:
   debian:
     pip:
