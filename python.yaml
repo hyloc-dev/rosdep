@@ -5,7 +5,7 @@ python3-adafruit-circuitpython-ds3502-pip:
   ubuntu:
     pip:
       packages: [adafruit-circuitpython-ds3502]
-      
+
 python3-adafruit-circuitpython-pcf8575-pip:
   debian:
     pip:
@@ -31,11 +31,13 @@ python3-adafruit-circuitpython-ahtx0-pip:
       packages: [adafruit-circuitpython-ahtx0]
 
 python3-adafruit-circuitpython-scd4x-pip:
+  debian:
+    pip:
+      packages: [adafruit-circuitpython-scd4x]
   ubuntu:
     pip:
-      packages:
-        - adafruit-circuitpython-scd4x
-        
+      packages: [adafruit-circuitpython-scd4x]
+
 python3-pyniryo-pip:
   debian:
     pip:
@@ -43,7 +45,7 @@ python3-pyniryo-pip:
   ubuntu:
     pip:
       packages: [pyniryo]
-      
+
 python3-opencv-contrib-headless-pip:
   debian:
     pip:
@@ -67,8 +69,3 @@ python3-pillow-pip:
   ubuntu:
     pip:
       packages: [pillow]
-
-
-
-
-
